@@ -30,6 +30,7 @@
         {
             this.btnUsuarios = new System.Windows.Forms.Button();
             this.btnLivros = new System.Windows.Forms.Button();
+            this.btnEmprestimos = new System.Windows.Forms.Button();
             this.lblBemVindo = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -45,7 +46,7 @@
             // 
             // btnLivros
             // 
-            this.btnLivros.Location = new System.Drawing.Point(208, 142);
+            this.btnLivros.Location = new System.Drawing.Point(198, 142);
             this.btnLivros.Name = "btnLivros";
             this.btnLivros.Size = new System.Drawing.Size(140, 36);
             this.btnLivros.TabIndex = 1;
@@ -53,14 +54,24 @@
             this.btnLivros.UseVisualStyleBackColor = true;
             this.btnLivros.Click += new System.EventHandler(this.btnLivros_Click);
             // 
+            // btnEmprestimos
+            // 
+            this.btnEmprestimos.Location = new System.Drawing.Point(378, 142);
+            this.btnEmprestimos.Name = "btnEmprestimos";
+            this.btnEmprestimos.Size = new System.Drawing.Size(140, 36);
+            this.btnEmprestimos.TabIndex = 2;
+            this.btnEmprestimos.Text = "Cadastrar Emprestimo";
+            this.btnEmprestimos.UseVisualStyleBackColor = true;
+            this.btnEmprestimos.Click += new System.EventHandler(this.btnEmprestimos_Click);
+            // 
             // lblBemVindo
             // 
             this.lblBemVindo.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBemVindo.ForeColor = System.Drawing.Color.Crimson;
             this.lblBemVindo.Location = new System.Drawing.Point(12, 9);
             this.lblBemVindo.Name = "lblBemVindo";
-            this.lblBemVindo.Size = new System.Drawing.Size(336, 78);
-            this.lblBemVindo.TabIndex = 2;
+            this.lblBemVindo.Size = new System.Drawing.Size(516, 78);
+            this.lblBemVindo.TabIndex = 3;
             this.lblBemVindo.Text = "Bem Vindo!";
             this.lblBemVindo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblBemVindo.Click += new System.EventHandler(this.label1_Click);
@@ -69,8 +80,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(360, 216);
+            this.ClientSize = new System.Drawing.Size(540, 216);
             this.Controls.Add(this.lblBemVindo);
+            this.Controls.Add(this.btnEmprestimos);
             this.Controls.Add(this.btnLivros);
             this.Controls.Add(this.btnUsuarios);
             this.Name = "FormPrincipal";
@@ -83,6 +95,7 @@
 
         private System.Windows.Forms.Button btnUsuarios;
         private System.Windows.Forms.Button btnLivros;
+        private System.Windows.Forms.Button btnEmprestimos;
         private System.Windows.Forms.Label lblBemVindo;
     }
 }

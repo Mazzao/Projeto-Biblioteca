@@ -96,6 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Banco\Conexao.cs" />
+    <Compile Include="Classes\Emprestimo.cs" />
     <Compile Include="Classes\Livro.cs" />
     <Compile Include="Classes\Usuario.cs" />
     <Compile Include="FormPrincipal.cs">
@@ -116,6 +117,12 @@
     <Compile Include="FormLivros.Designer.cs">
       <DependentUpon>FormLivros.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormEmprestimos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmprestimos.Designer.cs">
+      <DependentUpon>FormEmprestimos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormPrincipal.resx">
@@ -126,6 +133,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormLivros.resx">
       <DependentUpon>FormLivros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmprestimos.resx">
+      <DependentUpon>FormEmprestimos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

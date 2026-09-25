@@ -38,5 +38,13 @@ namespace ProjetoBiblioteca
 
             telaLivros.Show();
         }
+
+        private void btnEmprestimos_Click(object sender, EventArgs e)
+        {
+            // Mesma ideia, mas abrindo a tela de emprestimos
+            FormEmprestimos telaEmprestimos = new FormEmprestimos();
+
+            telaEmprestimos.Show();
+        }
     }
 }
