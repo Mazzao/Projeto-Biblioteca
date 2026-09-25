@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetoBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|C:\\ProjetoBiblioteca\\projetobiblioteca\\formlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\formlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|C:\\ProjetoBiblioteca\\projetobiblioteca\\formlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\formlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|c:\\projetobiblioteca\\projetobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|C:\\ProjetoBiblioteca\\projetobiblioteca\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|C:\\ProjetoBiblioteca\\projetobiblioteca\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|C:\\ProjetoBiblioteca\\projetobiblioteca\\banco\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\banco\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|C:\\ProjetoBiblioteca\\projetobiblioteca\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|C:\\ProjetoBiblioteca\\projetobiblioteca\\formusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\formusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|C:\\ProjetoBiblioteca\\projetobiblioteca\\classes\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3CA0E4-DABF-4C3E-A186-E561549134DF}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\classes\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProjetoBiblioteca||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Program.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\Program.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T22:24:39.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\FormPrincipal.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormPrincipal.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\FormPrincipal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T22:19:33.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\FormPrincipal.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "ProjetoBiblioteca\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T21:04:04.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLivros.cs [Design]",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormLivros.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\FormLivros.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormLivros.cs [Design]",
+              "RelativeToolTip": "ProjetoBiblioteca\\FormLivros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T20:51:57.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLivros.cs",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormLivros.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\FormLivros.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormLivros.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\FormLivros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T20:42:20.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\Classes\\Livro.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Classes\\Livro.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\Classes\\Livro.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Classes\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T20:22:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormUsuarios.cs",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormUsuarios.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\FormUsuarios.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\FormUsuarios.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\FormUsuarios.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T18:39:04.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\Classes\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Classes\\Usuario.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\Classes\\Usuario.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Classes\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T18:33:22.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\Banco\\Conexao.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Banco\\Conexao.cs",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\Banco\\Conexao.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Banco\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T18:28:27.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjetoBiblioteca",
+              "DocumentMoniker": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+              "ToolTip": "C:\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+              "RelativeToolTip": "ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-22T22:22:44.444Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
