@@ -96,6 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Banco\Conexao.cs" />
+<<<<<<< HEAD
     <Compile Include="Classes\Livro.cs" />
     <Compile Include="Classes\Usuario.cs" />
     <Compile Include="FormConsultarLivros.cs">
@@ -110,6 +111,11 @@
     <Compile Include="FormConsultarUsuario.Designer.cs">
       <DependentUpon>FormConsultarUsuario.cs</DependentUpon>
     </Compile>
+=======
+    <Compile Include="Classes\Emprestimo.cs" />
+    <Compile Include="Classes\Livro.cs" />
+    <Compile Include="Classes\Usuario.cs" />
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -128,6 +134,7 @@
     <Compile Include="FormLivros.Designer.cs">
       <DependentUpon>FormLivros.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormConsultarLivros.resx">
@@ -137,6 +144,16 @@
     <EmbeddedResource Include="FormConsultarUsuario.resx">
       <DependentUpon>FormConsultarUsuario.cs</DependentUpon>
     </EmbeddedResource>
+=======
+    <Compile Include="FormEmprestimos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmprestimos.Designer.cs">
+      <DependentUpon>FormEmprestimos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -146,6 +163,12 @@
     <EmbeddedResource Include="FormLivros.resx">
       <DependentUpon>FormLivros.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
+=======
+    <EmbeddedResource Include="FormEmprestimos.resx">
+      <DependentUpon>FormEmprestimos.cs</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

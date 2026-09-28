@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\ProjetoBiblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.exe.config
 C:\ProjetoBiblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.exe
 C:\ProjetoBiblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.pdb
@@ -41,3 +42,47 @@ C:\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.FormLivros.re
 C:\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.FormPrincipal.resources
 C:\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.FormConsultarLivros.resources
 C:\ProjetoBiblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.FormConsultarUsuario.resources
+=======
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.exe.config
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.exe
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.pdb
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\Google.Protobuf.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\K4os.Compression.LZ4.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\K4os.Hash.xxHash.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\MySql.Data.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Buffers.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.IO.Pipelines.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Memory.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Numerics.Vectors.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\ZstdSharp.dll
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\Google.Protobuf.pdb
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\Google.Protobuf.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\K4os.Compression.LZ4.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\K4os.Hash.xxHash.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\MySql.Data.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Buffers.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.IO.Pipelines.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Memory.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Numerics.Vectors.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.AssemblyReference.cache
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.FormPrincipal.resources
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.FormUsuarios.resources
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.FormLivros.resources
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.FormEmprestimos.resources
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.Properties.Resources.resources
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.GenerateResource.cache
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.CoreCompileInputs.cache
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoB.5467C208.Up2Date
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.exe
+D:\repositórios vs\Projeto-Biblioteca\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.pdb
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327

@@ -30,14 +30,23 @@
         {
             this.btnUsuarios = new System.Windows.Forms.Button();
             this.btnLivros = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.lblBemVindo = new System.Windows.Forms.Label();
             this.btnConsultarLivros = new System.Windows.Forms.Button();
             this.btnBuscarUsuario = new System.Windows.Forms.Button();
+=======
+            this.btnEmprestimos = new System.Windows.Forms.Button();
+            this.lblBemVindo = new System.Windows.Forms.Label();
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
             this.SuspendLayout();
             // 
             // btnUsuarios
             // 
+<<<<<<< HEAD
             this.btnUsuarios.Location = new System.Drawing.Point(18, 90);
+=======
+            this.btnUsuarios.Location = new System.Drawing.Point(18, 142);
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
             this.btnUsuarios.Name = "btnUsuarios";
             this.btnUsuarios.Size = new System.Drawing.Size(140, 36);
             this.btnUsuarios.TabIndex = 0;
@@ -47,7 +56,11 @@
             // 
             // btnLivros
             // 
+<<<<<<< HEAD
             this.btnLivros.Location = new System.Drawing.Point(208, 90);
+=======
+            this.btnLivros.Location = new System.Drawing.Point(198, 142);
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
             this.btnLivros.Name = "btnLivros";
             this.btnLivros.Size = new System.Drawing.Size(140, 36);
             this.btnLivros.TabIndex = 1;
@@ -55,18 +68,37 @@
             this.btnLivros.UseVisualStyleBackColor = true;
             this.btnLivros.Click += new System.EventHandler(this.btnLivros_Click);
             // 
+<<<<<<< HEAD
+=======
+            // btnEmprestimos
+            // 
+            this.btnEmprestimos.Location = new System.Drawing.Point(378, 142);
+            this.btnEmprestimos.Name = "btnEmprestimos";
+            this.btnEmprestimos.Size = new System.Drawing.Size(140, 36);
+            this.btnEmprestimos.TabIndex = 2;
+            this.btnEmprestimos.Text = "Cadastrar Emprestimo";
+            this.btnEmprestimos.UseVisualStyleBackColor = true;
+            this.btnEmprestimos.Click += new System.EventHandler(this.btnEmprestimos_Click);
+            // 
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
             // lblBemVindo
             // 
             this.lblBemVindo.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBemVindo.ForeColor = System.Drawing.Color.Crimson;
             this.lblBemVindo.Location = new System.Drawing.Point(12, 9);
             this.lblBemVindo.Name = "lblBemVindo";
+<<<<<<< HEAD
             this.lblBemVindo.Size = new System.Drawing.Size(336, 78);
             this.lblBemVindo.TabIndex = 2;
+=======
+            this.lblBemVindo.Size = new System.Drawing.Size(516, 78);
+            this.lblBemVindo.TabIndex = 3;
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
             this.lblBemVindo.Text = "Bem Vindo!";
             this.lblBemVindo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblBemVindo.Click += new System.EventHandler(this.label1_Click);
             // 
+<<<<<<< HEAD
             // btnConsultarLivros
             // 
             this.btnConsultarLivros.Location = new System.Drawing.Point(18, 132);
@@ -87,19 +119,30 @@
             this.btnBuscarUsuario.UseVisualStyleBackColor = true;
             this.btnBuscarUsuario.Click += new System.EventHandler(this.button1_Click);
             // 
+=======
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(360, 216);
             this.Controls.Add(this.btnBuscarUsuario);
             this.Controls.Add(this.btnConsultarLivros);
             this.Controls.Add(this.lblBemVindo);
+=======
+            this.ClientSize = new System.Drawing.Size(540, 216);
+            this.Controls.Add(this.lblBemVindo);
+            this.Controls.Add(this.btnEmprestimos);
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
             this.Controls.Add(this.btnLivros);
             this.Controls.Add(this.btnUsuarios);
             this.Name = "FormPrincipal";
             this.Text = "Pagina Inicial";
+<<<<<<< HEAD
             this.Load += new System.EventHandler(this.FormPrincipal_Load);
+=======
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
             this.ResumeLayout(false);
 
         }
@@ -108,8 +151,13 @@
 
         private System.Windows.Forms.Button btnUsuarios;
         private System.Windows.Forms.Button btnLivros;
+<<<<<<< HEAD
         private System.Windows.Forms.Label lblBemVindo;
         private System.Windows.Forms.Button btnConsultarLivros;
         private System.Windows.Forms.Button btnBuscarUsuario;
+=======
+        private System.Windows.Forms.Button btnEmprestimos;
+        private System.Windows.Forms.Label lblBemVindo;
+>>>>>>> 2f68b1f792237e0d834daf0953a96e3042729327
     }
 }
